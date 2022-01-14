@@ -17,7 +17,7 @@
 
 >Hard skills: <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> HTML, CSS y GITHUB.
 
->Other skills: Figma, Spark AR (cración de filtros), diseño UX/UI y Excel.
+>Other skills: Figma, Spark AR (cración de filtros), diseño UX/UI, Excel, basic photoshop.
 
 ##
 - 🛠 I’m currently working on my personal briefcase. 
