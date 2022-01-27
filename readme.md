@@ -1,6 +1,6 @@
 <head> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> </head>
 
-## Hi there 👋, My name is Caleb (ParraCode) Parra
+## Hi there 👋, My name is Caleb (ParraCode) Parra.
 #### Im learning to be fullstack developer.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
