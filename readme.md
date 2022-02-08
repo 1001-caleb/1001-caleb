@@ -23,7 +23,7 @@
 
 ##
 - 🛠 I’m currently working on my personal briefcase. 
-- 📚 I’m currently learning Java, Javascript and React. 
+- 📚 I’m currently learning Javascript and React. 
 
 
 
