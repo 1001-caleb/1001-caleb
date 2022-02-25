@@ -22,7 +22,7 @@
 >Other skills: Figma, Spark AR (cración de filtros), Trello, git y GitHub.
 
 ##
-- 🛠 I’m currently working on projects for practice. 
+- 🛠 I’m currently working on My portfolio. 
 - 📚 I’m currently learning Javascript and React. 
 
 
