@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
 </div>
 
-*Programming student (focused on web) I am looking for the opportunity to gain experience with web design technologies (React JS, VUE JS, CSS) in backend development (JAVA, Python, NODE JS) and database management.*
+*Programming student (focused on web) I am looking for the opportunity to gain experience with web design technologies (React JS, HTML, CSS and Javascript) in backend development (JAVA or NODE JS) and database management.*
 
 *I like to work as a team, cooperating with everyone and helping in the best possible way, with great satisfaction in teaching and learning.*
 
