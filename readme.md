@@ -23,7 +23,7 @@
 
 ##
 - 🛠 I’m currently working on My portfolio. 
-- 📚 I’m currently learning Javascript and React. 
+- 📚 I’m currently learning Javascript, Laravel and spring boot.
 
 
 ##
