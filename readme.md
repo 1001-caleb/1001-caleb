@@ -22,7 +22,7 @@
 >Other skills: Figma, Trello, git y GitHub.
 
 ##
-- 🛠 I’m currently working on My portfolio. 
+- 🛠 I’m currently working on SENA projects. 
 - 📚 I’m currently learning Javascript, Laravel and spring boot.
 
 
