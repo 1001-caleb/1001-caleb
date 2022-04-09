@@ -29,7 +29,6 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1001-caleb)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1001-caleb&show_icons=false)  
 
  ##
  
