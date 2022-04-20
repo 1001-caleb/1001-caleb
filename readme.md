@@ -24,7 +24,7 @@
 
 ##
 - 🛠 I’m currently working on SENA projects. 
-- 📚 I’m currently learning Javascript, Laravel, spring boot and angular.
+- 📚 I’m currently learning Javascript, Laravel and solidity
 
 
 ##
