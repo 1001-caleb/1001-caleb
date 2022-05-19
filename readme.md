@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
 </div>
 
-*Programming student (focused on web) I am looking for the opportunity to gain experience with web design technologies (React JS, HTML, CSS and Javascript) in backend development (JAVA or NODE JS), database management and data analyst...*
+*Programming student (focused on web) I am looking for the opportunity to gain experience with web design technologies (React JS, HTML, CSS and Javascript) in backend development (JAVA or NODE JS) and database management *
 
 *I like to work as a team, cooperating with everyone and helping in the best possible way, with great satisfaction in teaching and learning.*
 
@@ -16,7 +16,22 @@
 
 🧠 Skills:  
 
->Hard skills: <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+>Hard skills: <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> 
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+          
+          
+            
+          
+          
+          
+          
+          
+          
+          
 
 >Soft skills: Teamwork, agile work methodologies, leadership.
 
