@@ -1,16 +1,12 @@
 <head> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> </head>
 
 ## Hi there 👋, My name is Caleb (ParraCode) Parra.
-#### Im learning to be web developer and solidity dev.
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
 </div>
 
-*Programming student (focused on web) I am looking for the opportunity to gain experience with web design technologies (React JS, HTML, CSS and Javascript) in backend development (JAVA or NODE JS) and database management *
-
-*I like to work as a team, cooperating with everyone and helping in the best possible way, with great satisfaction in teaching and learning.*
-
-*I am looking for opportunities to do an internship in any of the programming areas that allows me to consolidate my knowledge in IT.*
+*Estudiante de programación de software, enfocado en tecnologias web y web3. Apasionado por la enseñanza y en busca de nuevos retos cada dia.* 
 
 ##
 
@@ -43,8 +39,8 @@
 >Other skills: Figma, Trello, git y GitHub.
 
 ##
-- 🛠 I’m currently working on SENA projects. 
-- 📚 I’m currently learning Javascript and solidity
+- 🛠 Actualmente trabajando en proyectos para mi institución SENA. 
+- 📚 Aprendiendo tecnologias web basadas en Javascript y solidity.
 
 
 ##
