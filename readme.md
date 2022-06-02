@@ -34,9 +34,9 @@
           
           
 
->Soft skills: Teamwork, agile work methodologies, leadership.
+>Soft skills: Trabajo en equipo, enseñanza y aprendizaje rapido, metodologias agiles.
 
->Other skills: Figma, Trello, git y GitHub.
+>Otras skills: Figma, Trello, git y GitHub.
 
 ##
 - 🛠 Actualmente trabajando en proyectos para mi institución SENA. 
