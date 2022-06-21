@@ -36,7 +36,7 @@
 
 >Soft skills: Trabajo en equipo, enseñanza y aprendizaje rapido, metodologias agiles.
 
->Otras skills: Figma, Trello, git y GitHub, EC2, PowerBI.
+>Otras skills: Figma, Trello, git y GitHub, Virtual machines, PowerBI, PaaS.
 
 ##
 - 🛠 Actualmente trabajando en proyectos para mi institución SENA. 
