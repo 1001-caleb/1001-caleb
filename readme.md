@@ -58,3 +58,4 @@ A lo largo de dos años he adquirido conocimientos para desarrollar soluciones d
 
 ![Profile views](https://gpvc.arturio.dev/1001-caleb)  
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1001-caleb&theme=dark-blue)
