@@ -1,18 +1,18 @@
 <head> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> </head>
 
-## Hi there 👋, My name is Caleb Parra.
+## Hola 👋🏾, soy Caleb Parra.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
 </div>
 
-*📚 Aprendiz de desarrollo de software en entidades como el SENA, Alura LATAM (Oracle ONE education)  y Platzi + Endeavor (Empoderatech).
+📚 Aprendiz de desarrollo de software en entidades como el SENA, Alura LATAM (Oracle ONE education), Platzi, politécnico De Colombia .
 
 A lo largo de dos años he adquirido conocimientos para desarrollar soluciones de software llevando proyectos desde su etapa inicial, obteniendo requerimientos específicos, aplicación de metodologías ágiles, diseño UX/UI, diseño web, creación de API's, manejo de bases de datos y posteriormente desplegando en servicios de hosting y máquinas virtuales.
 
 🌞 Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en enseñar y aprender.
 
-🏁 Busco oportunidades para hacer prácticas en el cualquiera de las áreas de la programación que permita afianzar mis conocimientos en TI.*
+🏁 Busco oportunidades para hacer prácticas en el cualquiera de las áreas de la programación que permita afianzar mis conocimientos en TI.
 ##
 
 🧠 Skills:  
