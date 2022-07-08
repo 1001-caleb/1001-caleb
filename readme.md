@@ -6,25 +6,25 @@
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
 </div>
 
-📚 Aprendiz de desarrollo de software en entidades como el SENA, Alura LATAM (Oracle ONE education), Platzi, politécnico De Colombia .
 
-A lo largo de dos años he adquirido conocimientos para desarrollar soluciones de software llevando proyectos desde su etapa inicial, obteniendo requerimientos específicos, aplicación de metodologías ágiles, diseño UX/UI, diseño web, creación de API's, manejo de bases de datos y posteriormente desplegando en servicios de hosting y máquinas virtuales.
 
-🌞 Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en enseñar y aprender.
 
-🏁 Busco oportunidades para hacer prácticas en el cualquiera de las áreas de la programación que permita afianzar mis conocimientos en TI.
+
+📚 Soy:
+> Aprendiz de desarrollo de software (SENA, Oracle Next Education ONE, Scalab academy, politecnico de Colombia).
+
+💡 Conocimientos:
+
+>  Liderazgo de proyectos (metodologias agiles), Diseño UX/UI, Desarrollo web, Creación de API's, manejo de bases de datos, despliegue en la nube.
+
+>  Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en enseñar y aprender.
+
+>  Busco oportunidades para hacer prácticas en el cualquiera de las áreas de la programación que permita afianzar mis conocimientos en TI.
 ##
 
 🧠 Skills:  
 
->Hard skills: <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>             <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> ,
-           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> 
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-            <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+>Hard skills: <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
           
           
@@ -40,11 +40,11 @@ A lo largo de dos años he adquirido conocimientos para desarrollar soluciones d
 
 >Soft skills: Trabajo en equipo, enseñanza y aprendizaje rapido, metodologias agiles.
 
->Otras skills: Figma, Trello, git y GitHub, Virtual machines, PowerBI, PaaS.
+>Otras skills: Figma, Trello, git y GitHub.
 
 ##
-- 🛠 Actualmente trabajando en proyectos para mi institución SENA. 
-- 📚 Aprendiendo tecnologias web basadas en Javascript y solidity.
+- 🛠 Actualmente trabajando en proyectos como freelancer
+- 📚 Aprendiendo tecnologias web basadas en Javascript y web3.
 
 
 ##
