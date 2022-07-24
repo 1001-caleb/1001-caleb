@@ -19,8 +19,6 @@
 
 >  Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en enseñar y aprender.
 
->  Busco oportunidades para hacer prácticas en el cualquiera de las áreas de la programación que permita afianzar mis conocimientos en TI.
-##
 
 🧠 Skills:  
 
