@@ -57,7 +57,7 @@
  
 
 ![Parra's GitHub stats](https://github-readme-stats.vercel.app/api?username=1001-caleb&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1001-caleb&layout=compact)](https://github.com/1001-caleb/github-readme-stats)
+
 
 ![Profile views](https://gpvc.arturio.dev/1001-caleb)  
 
