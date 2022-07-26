@@ -17,8 +17,6 @@
 
 >  Liderazgo de proyectos (metodologias agiles), Diseño UX/UI, Desarrollo web, Creación de API's, manejo de bases de datos, despliegue en la nube.
 
->  Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en enseñar y aprender.
-
 
 🧠 Skills:  
 
@@ -42,7 +40,6 @@
           
           
 
->Soft skills: Trabajo en equipo, enseñanza y aprendizaje rapido, metodologias agiles.
 
 >Otras skills: Figma, Trello, git y GitHub.
 
