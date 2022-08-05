@@ -10,12 +10,13 @@
 
 
 
-📚 Soy:
-> Aprendiz de desarrollo de software (SENA, Oracle Next Education ONE, Scalab academy, politecnico de Colombia).
+📚 I am:
+> Trainee software developer (SENA, Oracle ONE, Platzi, Scalab Academy).
 
-💡 Conocimientos:
+💡 Knowledges:
 
->  Liderazgo de proyectos (metodologias agiles), Diseño UX/UI, Desarrollo web, Creación de API's, manejo de bases de datos, despliegue en la nube.
+>  Knowledgeable in developing software solutions with web and native technologies, from the initial to the final stage.
+>  Project leadership (agile metodologies), UX/UI, Web development, API's development , data base managment, cloud deployment.
 
 
 🧠 Skills:  
@@ -41,11 +42,11 @@
           
 
 
->Otras skills: Figma, Trello, git y GitHub.
+>Other skills: Figma, Trello, git y GitHub.
 
 ##
-- 🛠 Actualmente trabajando en proyectos como freelancer
-- 📚 Aprendiendo tecnologias web basadas en Javascript y web3.
+- 🛠 Wornking on freelance proyects and building programming communities.
+- 📚 Learning web technologies based in JS.
 
 
 ##
