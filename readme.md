@@ -1,6 +1,6 @@
 <head> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> </head>
 
-## Hola 👋🏾, soy Caleb Parra.
+## Hi 👋🏾, i am Caleb Parra.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/71718050/147854447-ab841e66-979e-4b8b-ac84-0639bb8fd039.png" />
@@ -10,7 +10,7 @@
 
 
 
-📚 I am:
+📚 About me:
 > Trainee software developer (SENA, Oracle ONE, Platzi, Scalab Academy).
 
 💡 Knowledges:
