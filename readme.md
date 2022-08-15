@@ -11,7 +11,7 @@
 
 
 📚 About me:
-> Trainee software developer (SENA, Oracle ONE, Platzi, Scalab Academy).
+> Trainee software developer (SENA, Oracle ONE, Platzi, Escalab Academy).
 
 💡 Knowledges:
 
