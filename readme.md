@@ -42,7 +42,7 @@
           
 
 
->Other skills: Figma, Trello, git & GitHub, Cloud solutions on IBM and Huawei Cloud. 
+>Other skills: SCRUM, Figma, Trello, Asana, git & GitHub, Gitlab, Cloud solutions on IBM watson assistant. 
 
 ##
 - 🛠 Wornking on freelance proyects and building programming communities.
