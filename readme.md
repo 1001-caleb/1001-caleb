@@ -42,7 +42,7 @@
           
 
 
->Other skills: SCRUM, Figma, Trello, Asana, git & GitHub, Gitlab, Cloud solutions on IBM watson assistant. 
+>Other skills: SCRUM, Figma, Trello, Asana, git & GitHub, Gitlab, Cloud solutions on IBM watson assistant, CI/CD, testing, Docker, GitHub actions
 
 ##
 - 🛠 Wornking on freelance proyects and building programming communities.
