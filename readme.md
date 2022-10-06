@@ -11,7 +11,7 @@
 
 
 📚 About me:
-> Trainee software developer (SENA, Oracle ONE, Platzi, Escalab Academy).
+> Software developer, CEO of G4A and Cloud enthusiast
 
 💡 Knowledges:
 
