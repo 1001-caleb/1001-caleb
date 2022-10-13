@@ -11,7 +11,7 @@
 
 
 📚 About me:
-> Software developer, CEO of G4A and Cloud enthusiast
+> Software developer, CEO of G4A and Cloud enthusiast.
 
 💡 Knowledges:
 
