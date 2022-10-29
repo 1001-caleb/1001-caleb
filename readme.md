@@ -45,7 +45,7 @@
 >Other skills: SCRUM, Figma, Trello, Asana, git & GitHub, Gitlab, Cloud solutions on IBM watson assistant, CI/CD, testing, Docker, GitHub actions
 
 ##
-- 🛠 Wornking on my own proyects.
+- 🛠 Wornking on my own proyects and providing my services for GBM.
 - 📚 studying about cloud services.
 
 
