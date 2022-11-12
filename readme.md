@@ -11,7 +11,7 @@
 
 
 📚 About me:
-> Software developer, CEO of G4A and Cloud enthusiast.
+> Software developer | No-Code, Low-Code & Code | PowerApps - Power automate - DataVerse | Typescript - JavaScript - Node - React - React native - Python | Cloud enthusiast ☁️
 
 💡 Knowledges:
 
