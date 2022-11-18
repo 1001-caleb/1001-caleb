@@ -42,7 +42,7 @@
           
 
 
->Other skills: SCRUM, Figma, Trello, Asana, git & GitHub, Gitlab, Cloud solutions on IBM watson assistant, CI/CD, testing, Docker, GitHub actions
+>Other skills: SCRUM, Figma, Trello, Asana, git & GitHub, Gitlab, Cloud solutions on IBM watson assistant, CI/CD, testing, Docker, GitHub actions, Power Apps, Power automate, PowerBI, Power virtual agents, DataVerse.
 
 ##
 - 🛠 Wornking on my own proyects and providing my services for GBM.
